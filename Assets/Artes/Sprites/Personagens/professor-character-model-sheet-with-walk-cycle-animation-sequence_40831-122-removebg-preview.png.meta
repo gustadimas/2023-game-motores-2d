@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: b8e0b626e15a9d34d8449bc62230defe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 155
+        width: 28
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f40eff948b7a44c969f4fa824e0d0e
+      internalID: -293318679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 155
+        width: 29
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f959f8b1dbe824682950aada795d72
+      internalID: 1373489316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 155
+        width: 32
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d25180daa9c3942a971ddcee277db7
+      internalID: -1724357258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 155
+        width: 44
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44029b723d38be42826fc11e895750a
+      internalID: 1534019850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 155
+        width: 46
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc6f845c8454214080815f0486e55a8
+      internalID: -756805564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 155
+        width: 60
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7538359cb5a1d98479f6f3aaad1242cc
+      internalID: 2126766689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 154
+        width: 30
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc45481dc3e5fa54a88f07e88f72643e
+      internalID: 944994714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 153
+        width: 28
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aef116f1d22dc441bdbb68a0fa2166c
+      internalID: 794118291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 155
+        width: 18
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b55b7572463c8f44a0352f6e4608668
+      internalID: -858961104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 154
+        width: 26
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad96a5e469130e4a9780cf4fe0c2231
+      internalID: -500243187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 155
+        width: 29
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bbe33a04571eb43a9a922e12bc9cc3
+      internalID: 1586389298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 15
+        width: 106
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb82da062f8609946bb44f426416d8ea
+      internalID: -1767442676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 18
+        width: 48
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3619161d45b36584395be18c346bab48
+      internalID: -161216233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 29
+        width: 32
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118b2ea6ddf2d334fa6cd2850af862fc
+      internalID: 760029763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 29
+        width: 26
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47418c9e4defe354da2c12d22933b8a3
+      internalID: 1408916523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 29
+        width: 31
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f043b6f9644fd49b8ba6fc78663f66
+      internalID: 1863821083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 29
+        width: 48
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57160202f62d5db478cb24d42dd786a0
+      internalID: 1802634847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 29
+        width: 32
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38117ad7512ae3542aa6db8c1d858424
+      internalID: -1433876519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 19
+        width: 25
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b007e6f7c2c93b49932726e011bdcf0
+      internalID: 1494784721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 29
+        width: 30
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e96d42117843024296f25caab9f70b3
+      internalID: -1462127162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 18
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7143a267d8b71274cafaa6d353ad8ff2
+      internalID: 1248584047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 18
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474030378f3a551438c3e4992f03d060
+      internalID: 999033169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 18
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768a4326ac9cb074d960468dfbbb7718
+      internalID: 54912159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 18
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d4e7f94eef01d4386d000081a7efa6
+      internalID: -1891368498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_9: -500243187
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_11: -1767442676
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_18: 1494784721
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_19: -1462127162
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_2: -1724357258
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_1: 1373489316
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_7: 794118291
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_13: 760029763
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_15: 1863821083
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_5: 2126766689
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_14: 1408916523
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_6: 944994714
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_12: -161216233
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_10: 1586389298
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_21: 999033169
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_23: -1891368498
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_22: 54912159
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_0: -293318679
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_20: 1248584047
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_16: 1802634847
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_3: 1534019850
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_8: -858961104
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_17: -1433876519
+      professor-character-model-sheet-with-walk-cycle-animation-sequence_40831-122-removebg-preview_4: -756805564
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
